@@ -66,6 +66,23 @@ textdomain($domain);
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		
+		<script type="application/javascript" language="JavaScript">
+			$("#btnSendMsg").click(function(e){
+				e.preventDefault(); //prevent submit
+				ajax_submit('contact');
+			});
+			
+			function ajax_submit(action_requested){
+				var submitstr=$("#frmFormMail").serialize();
+				submitstr=submitstr + '&action=ContactFrm';
+				$.post("<?php echo $_SERVER['PHP_SELF'];?>",submitstr,function(data){
+					if(data.length>0){
+						alert("Hurray you have submitted your request!");
+					}
+				})
+			}
+		</script>
 	</head>
 	<body>
 		<!-- Nav -->
@@ -325,7 +342,7 @@ textdomain($domain);
 										<div class="row 200%">
 											<div class="12u">
 												<ul class="actions">
-													<li><input type="submit" value="Send Message" /></li>
+													<li><input id="btnSendMsg" type="submit" value="Send Message" /></li>
 													<li><input type="reset" value="Clear Form" class="alt" /></li>
 												</ul>
 											</div>
