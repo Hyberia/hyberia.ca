@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-29 01:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jamie Nadeau <james2432@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../index.php:75
+msgid "Top"
+msgstr "Haut"
+
+#: ../../../index.php:76
+msgid "Work"
+msgstr "Production passées"
+
+#: ../../../index.php:77
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../../../index.php:78
+msgid "Team"
+msgstr "Équipe"
+
+#: ../../../index.php:79
+msgid "Contact"
+msgstr "Contacte"
+
+#: ../../../index.php:93
+msgid "Hi. We're <strong>Hyberia</strong>."
+msgstr "Bonjour. Nous sommes <strong>Hyberia</strong>"
+
+#: ../../../index.php:95
+msgid ""
+"A <strong>webcasting</strong> and <strong>videography</strong> solution for "
+"special events and other things."
+msgstr ""
+"Une solution <strong>diffusion web</strong> et <strong>vidéographie</strong> "
+"pour événements spéciaux et autre choses."
+
+#: ../../../index.php:96
+msgid "What we do"
+msgstr "Ce qu'on fait"
+
+#: ../../../index.php:106
+msgid "We take your event to a global audience."
+msgstr "Nous prenons votre événement à un auditoire global."
+
+#: ../../../index.php:107
+msgid ""
+"Webcasting is broad, but we focus on making your event available online."
+msgstr ""
+"Diffusion web est vague, mais nous nous concentrons sur la disponibilité de "
+"votre événement en ligne."
+
+#: ../../../index.php:114
+msgid "Live, No hassle"
+msgstr "En direct, Aucun souci"
+
+#: ../../../index.php:115
+msgid "There is no limit on who can watch your event."
+msgstr "Il n'y a aucune limite de visionnement pour votre événement."
+
+#: ../../../index.php:121
+msgid "Ticketed event"
+msgstr "Événement payant"
+
+#: ../../../index.php:122
+msgid "We can monetize your event. You set the price, we deliver."
+msgstr ""
+"Nous pouvons rendre votre événement payant. Fixez votre prix, nous livrons."
+
+#: ../../../index.php:128
+msgid "We travel"
+msgstr "Nous voyageons"
+
+#: ../../../index.php:129
+msgid "We are ready to go where your event is, as long as we can get to it."
+msgstr ""
+"Nous sommes prêt à aller où votre événement se trouve, en autant qu'on "
+"puisse se rendre."
+
+#: ../../../index.php:137
+msgid "Video Production"
+msgstr "Production Vidéo"
+
+#: ../../../index.php:138
+msgid "We can save the memories from your event."
+msgstr "Nous capturons les souvenirs de votre événement."
+
+#: ../../../index.php:144
+msgid "Video editing"
+msgstr "Édition vidéo"
+
+#: ../../../index.php:145
+msgid "Summerized version or promotional media for your event? We do that!"
+msgstr ""
+"Version sommaire ou média promotionel pour votre événement? Nous le faisons."
+
+#: ../../../index.php:151
+msgid "Weddings"
+msgstr "Mariages"
+
+#: ../../../index.php:152
+msgid "Yes, we even do weddings!"
+msgstr "Oui, nous faisons aussi les mariages!"
+
+#: ../../../index.php:158
+msgid "Still not sure what we can do?"
+msgstr "Pas encore certain ce que l'on peut faire?"
+
+#: ../../../index.php:159
+msgid "See some of our previous work"
+msgstr "Voir les évéments fait auparavant"
+
+#: ../../../index.php:168
+msgid "Previous clients"
+msgstr "Clients antérieurs"
+
+#: ../../../index.php:169
+msgid "Over the years we have worked at many great events."
+msgstr "À travers des années, nous avons travaillé à plusieurs évéments"
+
+#: ../../../index.php:177
+msgid ""
+"<i>The origin of Hyberia.</i> We started just doing it for fun and now we "
+"deliver, record and organise many shows over the 3 days of the event."
+msgstr ""
+"<i>L'origine d'Hyberia</i> Nous avons commencés à le faire pour le plaisir "
+"et maintenant nous livrons, enrigistrons et organise plusieurs spectacles "
+"durant les 3 jours de l'événement"
+
+#: ../../../index.php:184
+msgid "3 nights of live broadcast during Ottawa Pride Week."
+msgstr "3 nuits de diffusion en directe durant la semaine de Fierté à Ottawa"
+
+#: ../../../index.php:191
+msgid "Presented by eSports North."
+msgstr "Présenté par eSports North."
+
+#: ../../../index.php:200
+msgid ""
+"Production of <a href=\"https://www.youtube.com/watch?v=1SE-LsBKIu0\">a "
+"theater ad</a> and videography for the main event hall including a <i>Skype-"
+"in</i>."
+msgstr ""
+"Production <a href=\"https://www.youtube.com/watch?v=1SE-LsBKIu0\">d'un "
+"annonce au cinéma</a> et vidéographie pour la salle principale, incluant un "
+"<i>Skype-in</i> "
+
+#: ../../../index.php:206
+msgid "Still have questions?"
+msgstr "Encore des questions?"
+
+#: ../../../index.php:207
+msgid "Get in touch with us"
+msgstr "Contactez nous"
+
+#: ../../../index.php:215
+msgid "The team."
+msgstr "L'Équipe"
+
+#: ../../../index.php:216
+msgid ""
+"Founded in 2011 by Mathieu and Arnaud, we have grown to a small but "
+"dedicated team."
+msgstr ""
+"Fondé en 2011 par Mathieu et Arnaud, nous avons grandit à une petite équipe "
+"dédiée."
+
+#: ../../../index.php:287
+msgid "Other members"
+msgstr "Autres membres"
+
+#: ../../../index.php:300
+msgid "Want to hire Get in touch!"
+msgstr "Désir d'engager Contactez nous!"
+
+#: ../../../index.php:301
+msgid "We normally answer pretty quickly."
+msgstr "Nous répondons assez rapidement."
+
+#: ../../../index.php:341
+msgid "Find us on ..."
+msgstr "Trouvez nous sur ..."
